@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/re1.jar clojure.main -m re1.core

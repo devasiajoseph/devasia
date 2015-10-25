@@ -1,0 +1,52 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Oct 10 20:41:08 2015
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22041 10892 315409 0) (desktop . "206") "devasia@Devasias-MacBook-Pro.local" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-apple-Menlo-medium-normal-normal-*-11-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (foreground-color . "#c5c8c6") (background-color . "#1d1f21") (line-spacing) (left-fringe . 10) (right-fringe . 11) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (fullscreen . fullboth) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#cc6666") (environment) (border-color . "#373b41") (frameset--id . "B2D3-901A-1CDB-9C70") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (display . "Devasias-MacBook-Pro.local") (explicit-name) (tool-bar-position . top) (visibility . t) (height . 68) (width . 200) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 8) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 52) (min-pixel-width . 70) (min-pixel-height-ignore . 39) (min-pixel-width-ignore . 56) (min-pixel-height-safe . 13) (min-pixel-width-safe . 14)) leaf (pixel-width . 1436) (pixel-height . 883) (total-width . 205) (total-height . 67) (normal-height . 1.0) (normal-width . 1.0) (buffer "home.clj" (selected . t) (hscroll . 0) (fringes 10 11 nil) (margins 2) (scroll-bars 15 3 t nil) (vscroll . 0) (dedicated) (point . 339) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/Users/devasia/workspace/ajobs/src/ajobs/routes/home.clj" "/Users/devasia/workspace/ajobs/resources/templates/home.html" "/Users/devasia/workspace/ajobs/project.clj"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/devasia/workspace/ajobs/src/ajobs/routes/home.clj"
+  "home.clj"
+  'clojure-mode
+  '(linum-mode global-auto-revert-mode cider-mode paredit-mode)
+  339
+  '(339 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/devasia/workspace/ajobs/resources/templates/home.html"
+  "home.html"
+  'html-mode
+  '(linum-mode global-auto-revert-mode)
+  873
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/devasia/workspace/ajobs/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(linum-mode global-auto-revert-mode cider-mode paredit-mode)
+  1703
+  '(1653 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+

@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/ajobs.jar clojure.main -m ajobs.core

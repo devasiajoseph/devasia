@@ -1,0 +1,30 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Oct 22 20:29:56 2015
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22056 63980 669603 0) (desktop . "206") "devasia@Devasias-MacBook-Pro.local" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-apple-Menlo-medium-normal-normal-*-11-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (foreground-color . "#c5c8c6") (background-color . "#1d1f21") (line-spacing) (left-fringe . 10) (right-fringe . 11) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (fullscreen) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#cc6666") (environment) (border-color . "#373b41") (frameset--id . "1124-B98F-CA8C-925E") (frameset--mini t . t) (height . 35) (width . 80) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 23) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "Devasias-MacBook-Pro.local") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 8) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 52) (min-pixel-width . 70) (min-pixel-height-ignore . 39) (min-pixel-width-ignore . 56) (min-pixel-height-safe . 13) (min-pixel-width-safe . 14)) leaf (pixel-width . 596) (pixel-height . 442) (total-width . 85) (total-height . 34) (normal-height . 1.0) (normal-width . 1.0) (buffer "index.ios.js" (selected . t) (hscroll . 0) (fringes 10 11 nil) (margins 2) (scroll-bars 15 3 t nil) (vscroll . 0) (dedicated) (point . 387) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/Users/devasia/workspace/AwesomeProject/index.ios.js"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/devasia/workspace/AwesomeProject/index.ios.js"
+  "index.ios.js"
+  'js-mode
+  '(linum-mode global-auto-revert-mode)
+  387
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
